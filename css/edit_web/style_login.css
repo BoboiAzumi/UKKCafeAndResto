@@ -1,0 +1,38 @@
+body{
+    background-image: url("../../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.kotak{
+    background-color: white;
+    margin-left: 34%;
+    margin-right: 34%;
+    margin-top: 5%;
+    padding-top: 1%;
+    border-radius: 10px;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.72);
+    text-align: center;
+    font-family: cursive;
+    padding-bottom:20px;
+    padding-top:50px;
+}
+.inputgr{
+    margin-left:70px;
+    margin-right:70px;
+}
+.fl {
+    display:flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.mis {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.copy {
+    margin-top: 30px;
+}
